@@ -1,1 +1,1 @@
-# Retina-Fundus-Components-Image-Processing
+# Ocular-Disease-Recognition
